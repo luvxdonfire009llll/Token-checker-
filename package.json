@@ -1,0 +1,14 @@
+{
+  "name": "fb-token-checker",
+  "version": "1.0.0",
+  "description": "Check Facebook access token validity and get name. Supports file upload for multiple tokens.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "express": "^4.18.2",
+    "multer": "^1.4.5"
+  }
+}
